@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configs</key>
+	<array>
+		<string>rings</string>
+		<string>notes</string>
+		<string>cpu</string>
+		<string>mem</string>
+	</array>
+	<key>creator</key>
+	<string>me</string>
+	<key>scaling</key>
+	<string>FillScreen</string>
+	<key>source</key>
+	<string>my_home :)</string>
+	<key>wallpaper</key>
+	<string>buzz-andersen-E4944K_4SvI.jpg</string>
+</dict>
+</plist>
